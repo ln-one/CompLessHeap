@@ -1,5 +1,5 @@
 # Heap Optimization: Promote Child Then Sink Parent to Reduce Comparisons
-
+Heap
 ## Background
 
 Standard heap construction and adjustment algorithms may require a large number of comparison operations in some cases, especially when the cost of comparison operations is high.
